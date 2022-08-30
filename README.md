@@ -19,6 +19,6 @@ Some of my notes might include direct copies of text and code from the companion
 - [FEM video course](https://frontendmasters.com/courses/typescript-practice/)
 - [Course companion website](https://www.typescript-training.com/course/making-typescript-stick)
 
-## TypeScript Training repo
+## Course challenges and games
 
-- [Github repo](https://github.com/mike-north/ts-fundamentals-v3) containing any code for the course, as well as the code for the Gatsby-made companion website.
+- [Github repo](https://github.com/mike-north/making-typescript-stick) containing any code for the course.
